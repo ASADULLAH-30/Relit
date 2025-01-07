@@ -66,7 +66,7 @@ var swiper = new Swiper(".books-slider", {
   },
 });
 
-var swiper = new Swiper(".featured-slider", {
+var swiper = new Swiper(".Preowned-Books-slider", {
   spaceBetween: 10,
   loop:true,
   centeredSlides: true,
